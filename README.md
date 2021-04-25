@@ -1,0 +1,1 @@
+# Amstrong_number
